@@ -29,9 +29,10 @@ Proposed content for NetBeans Day.
       - Speakers: Gaurav Gupta, David Heffelfinger, Ivar Grimstad
    * "Rapid Development for Web and Mobile with Oracle JET"
       - Speakers: Andrejus Baranovskis
-   * "Single-Page Web apps in Plain Java with Vaadin"
+   * "Single-Page Web Apps in Plain Java with Vaadin"
       - Speakers: Matti Tahvonen
-   * "Enterprise cross-platform mobile applications with Gluon"
+   * "Enterprise Cross-Platform Mobile Applications with Gluon"
+      - ID: UGF4122
       - Speakers: Johan Vos, Jose Pereda
 
 Sessions in the main JavaOne/OpenWorld conference connected to NetBeans.
