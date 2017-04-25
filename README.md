@@ -30,6 +30,6 @@ Proposed content.
    * "Rapid Development for Web and Mobile with Oracle JET"
       - Speakers: Andrejus Baranovskis
    * "Single-Page Web apps in Plain Java with Vaadin"
-      -Speakers: Matti Tahvonen
+      - Speakers: Matti Tahvonen
    * "Enterprise cross-platform mobile applications with Gluon"
       - Speakers: Johan Vos, Jose Pereda
