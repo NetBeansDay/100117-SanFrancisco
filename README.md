@@ -11,6 +11,10 @@
    * 15:30 - 16:15
    * 17:00 OpenWorld Keynote
    
+We'll probably be able to start later and split into two tracks, like last year:
+
+https://netbeans.org/community/articles/javaone/2016/netbeans-day-2016.html
+   
 Proposed content for NetBeans Day.   
 
    * "Apache NetBeans"
