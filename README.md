@@ -11,7 +11,7 @@
    * 15:30 - 16:15
    * 17:00 OpenWorld Keynote
    
-Proposed content.   
+Proposed content for NetBeans Day.   
 
    * "Apache NetBeans"
       - Speakers: Mark Stephens, Florian Vogler, Constantin Drabo
@@ -33,3 +33,7 @@ Proposed content.
       - Speakers: Matti Tahvonen
    * "Enterprise cross-platform mobile applications with Gluon"
       - Speakers: Johan Vos, Jose Pereda
+
+Sessions in the main JavaOne/OpenWorld conference connected to NetBeans.
+
+   * TUT1931: Goin' Mobile: Developing JavaFX Apps for IOS and Android with Java 9
