@@ -21,7 +21,7 @@ Proposed content for NetBeans Day.
       - Speakers: Mark Stephens, Florian Vogler, Constantin Drabo
    * "Java in Space: James Webb Space Telescope Flight Dynamics Ground System"
       - Speakers: Sean Phillips and team
-   * "Breaking up the Monolith with JigSaw" 
+   * "Breaking up the Monolith with Jigsaw" 
       - Speakers: Johannes Weigend, Sven Reimers, Jens Deters
    * "Java Performance Tuning with Free Tools"
       - Speakers: Kirk Pepperdine
