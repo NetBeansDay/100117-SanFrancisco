@@ -50,6 +50,7 @@ Sessions in the main JavaOne/OpenWorld conference connected to NetBeans.
    * TUT1931: Goin' Mobile: Developing JavaFX Apps for IOS and Android with Java 9
    * CON5168: Java Desktop in the Wild for Science and Analysis: Sean Phillips, Geertjan Wielenga, Rob Terpilowski, Chris Heidt, Thierry Danard
    * CON2887: Transforming a Java-based Desktop Application with Jython: Thierry Danard
-   * CON4389: Oracle JET in the wild - how and why organizations are using JET for their UIs
-   * CON2367: Single-Page Web apps in Plain Java with Vaadin
+   * CON4389: Oracle JET in the wild - how and why organizations are using JET for their UIs: Lucas Jellema
+   * CON2367: Single-Page Web apps in Plain Java with Vaadin: Matti Tahvonen
+   * CON5172: JavaScript: Does It Make Sense In Large Web & Mobile Apps?: Geertjan Wielenga
  
