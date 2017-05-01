@@ -26,6 +26,7 @@ Proposed content for NetBeans Day.
    * "Java Performance Tuning with Free Tools"
       - Speakers: Kirk Pepperdine
    * "Confessions of a Java Educator: What I Wish I Had Known Earlier"
+      - ID: CON5169
       - Speakers: Ken Fogel, Zoran Sevarac, Gail Anderson, Paul Anderson
    * "Docker for Java Developers"
       - Speakers: Arun Gupta, Fabiane Nardon
