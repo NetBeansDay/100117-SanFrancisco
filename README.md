@@ -46,3 +46,5 @@ If there are too many in the list above, depending on the allocation assigned to
 Sessions in the main JavaOne/OpenWorld conference connected to NetBeans.
 
    * TUT1931: Goin' Mobile: Developing JavaFX Apps for IOS and Android with Java 9
+   * CON5168: Java Desktop in the Wild for Science and Analysis: Sean Phillips, Geertjan Wielenga, Rob Terpilowski, Chris Heidt, Thierry Danard
+ 
