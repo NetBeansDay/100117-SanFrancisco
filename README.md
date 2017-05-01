@@ -37,6 +37,7 @@ Proposed content for NetBeans Day.
    * "Rapid Node.js Development with NetBeans"
       - Speakers: Ryan Cuprak
    * "Single-Page Web Apps in Plain Java with Vaadin"
+      - ID: CON2367
       - Speakers: Matti Tahvonen
    * "Enterprise Cross-Platform Mobile Applications with Gluon"
       - ID: UGF4122
@@ -50,4 +51,5 @@ Sessions in the main JavaOne/OpenWorld conference connected to NetBeans.
    * CON5168: Java Desktop in the Wild for Science and Analysis: Sean Phillips, Geertjan Wielenga, Rob Terpilowski, Chris Heidt, Thierry Danard
    * CON2887: Transforming a Java-based Desktop Application with Jython: Thierry Danard
    * CON4389: Oracle JET in the wild - how and why organizations are using JET for their UIs
+   * CON2367: Single-Page Web apps in Plain Java with Vaadin
  
