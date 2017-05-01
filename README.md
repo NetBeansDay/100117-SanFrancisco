@@ -48,4 +48,5 @@ Sessions in the main JavaOne/OpenWorld conference connected to NetBeans.
    * TUT1931: Goin' Mobile: Developing JavaFX Apps for IOS and Android with Java 9
    * CON5168: Java Desktop in the Wild for Science and Analysis: Sean Phillips, Geertjan Wielenga, Rob Terpilowski, Chris Heidt, Thierry Danard
    * CON2887 Transforming a Java-based Desktop Application with Jython: Thierry Danard
+   * 
  
