@@ -1,6 +1,6 @@
 # NetBeans Day San Francisco 2017
 
-7 slots with 30 minute breaks.
+7 slots with 30 minute breaks, in principle, though we may get more and we may get split tracks.
 
    * 08:00 - 08:45
    * 09:15 - 10:00
