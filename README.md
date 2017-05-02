@@ -33,6 +33,7 @@ Proposed content for NetBeans Day.
    * "Rapid Development Tools for Java EE 8"
       - Speakers: Gaurav Gupta, David Heffelfinger, Ivar Grimstad
    * "Rapid Development for Web and Mobile with Oracle JET"
+      - ID: UGF4508
       - Speakers: Andrejus Baranovskis
    * "Rapid Node.js Development with NetBeans"
       - Speakers: Ryan Cuprak
