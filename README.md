@@ -18,18 +18,22 @@ https://netbeans.org/community/articles/javaone/2016/netbeans-day-2016.html
 Proposed content for NetBeans Day.   
 
    * "Apache NetBeans"
+      - ID: To Be Done
       - Speakers: Mark Stephens, Florian Vogler, Constantin Drabo
    * "Java in Space: James Webb Space Telescope Flight Dynamics Ground System"
+      - ID: To Be Done
       - Speakers: Sean Phillips and team
    * "Breaking up the Monolith with Jigsaw" 
       - ID: UGF4400
       - Speakers: Johannes Weigend, Sven Reimers, Jens Deters, Martin Klaehn
    * "Java Performance Tuning with Free Tools"
+      - ID: To Be Done
       - Speakers: Kirk Pepperdine
    * "Confessions of a Java Educator: What I Wish I Had Known Earlier"
-      - ID: CON5169
+      - ID: CON5169 (to be converted to UGF)
       - Speakers: Ken Fogel, Zoran Sevarac, Gail Anderson, Paul Anderson
    * "Docker for Java Developers"
+      - ID: To Be Done
       - Speakers: Arun Gupta, Fabiane Nardon
    * "Rapid Development Tools for Java EE 8"
       - ID: UGF3883
@@ -38,6 +42,7 @@ Proposed content for NetBeans Day.
       - ID: UGF4508
       - Speakers: Andrejus Baranovskis
    * "Rapid Node.js Development with NetBeans"
+      - ID: To Be Done
       - Speakers: Ryan Cuprak
    * "Single-Page Web Apps in Plain Java with Vaadin"
       - ID: UGF2367
@@ -56,4 +61,6 @@ Sessions in the main JavaOne/OpenWorld conference connected to NetBeans.
    * CON4389: Oracle JET in the wild - how and why organizations are using JET for their UIs: Lucas Jellema
    * CON2367: Single-Page Web apps in Plain Java with Vaadin: Matti Tahvonen
    * CON5172: JavaScript: Does It Make Sense In Large Web & Mobile Apps?: Geertjan Wielenga
- 
+   * ...
+   * ...
+   * ...
