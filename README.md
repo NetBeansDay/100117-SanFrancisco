@@ -23,7 +23,7 @@ Proposed content for NetBeans Day.
       - Speakers: Sean Phillips and team
    * "Breaking up the Monolith with Jigsaw" 
       - ID: UGF4400
-      - Speakers: Johannes Weigend, Sven Reimers, Jens Deters
+      - Speakers: Johannes Weigend, Sven Reimers, Jens Deters, Martin Klaehn
    * "Java Performance Tuning with Free Tools"
       - Speakers: Kirk Pepperdine
    * "Confessions of a Java Educator: What I Wish I Had Known Earlier"
