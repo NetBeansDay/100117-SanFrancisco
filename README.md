@@ -37,7 +37,7 @@ Proposed content for NetBeans Day.
    * "Rapid Node.js Development with NetBeans"
       - Speakers: Ryan Cuprak
    * "Single-Page Web Apps in Plain Java with Vaadin"
-      - ID: CON2367
+      - ID: UGF2367
       - Speakers: Matti Tahvonen
    * "Enterprise Cross-Platform Mobile Applications with Gluon"
       - ID: UGF4122
