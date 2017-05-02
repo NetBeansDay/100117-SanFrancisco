@@ -32,6 +32,7 @@ Proposed content for NetBeans Day.
    * "Docker for Java Developers"
       - Speakers: Arun Gupta, Fabiane Nardon
    * "Rapid Development Tools for Java EE 8"
+      - ID: UGF3883
       - Speakers: Gaurav Gupta, David Heffelfinger, Ivar Grimstad
    * "Rapid Development for Web and Mobile with Oracle JET"
       - ID: UGF4508
