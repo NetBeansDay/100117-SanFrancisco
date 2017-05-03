@@ -33,7 +33,7 @@ Proposed content for NetBeans Day.
       - ID: CON5169 (to be converted to UGF)
       - Speakers: Ken Fogel, Zoran Sevarac, Gail Anderson, Paul Anderson
    * "Docker for Java Developers"
-      - ID: To Be Done
+      - ID: UGF5805
       - Speakers: Arun Gupta, Fabiane Nardon
    * "Rapid Development Tools for Java EE 8"
       - ID: UGF3883
