@@ -77,7 +77,7 @@ Reviewers for Java Development Tools Tracks
    1. Linda van der Pal
    1. Markus Eisele
    1. Max Andersen
-   1. Melissa M
+   1. Melissa McKay
    1. Patrycja Wegrzynowicz
    1. Rabea Gansberger
    1. Zoran Sevarac
