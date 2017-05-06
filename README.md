@@ -68,7 +68,15 @@ Sessions in the main JavaOne/OpenWorld conference connected to NetBeans.
 Reviewers for Java Development Tools Tracks
 
    1. Anton Arhipov
-   1. David
+   1. David Heffelfinger
    1. Fernando Babadopulos
    1. Gerrick Bivins
+   1. Ixchel Ruiz
+   1. Josh Juneau
+   1. Leanne Scheepers
+   1. Linda van der Pal
+   1. Markus Eisele
    1. Max Andersen
+   1. Patrycja Wegrzynowicz
+   1. Rabea Gansberger
+   1. Zoran Sevarac
