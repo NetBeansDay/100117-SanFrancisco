@@ -18,7 +18,7 @@ https://netbeans.org/community/articles/javaone/2016/netbeans-day-2016.html
 Proposed content for NetBeans Day.   
 
    * "Apache NetBeans"
-      - ID: To Be Done
+      - ID: UGF6160
       - Speakers: Mark Stephens, Florian Vogler, Constantin Drabo
    * "Java in Space: James Webb Space Telescope Flight Dynamics Ground System"
       - ID: To Be Done
