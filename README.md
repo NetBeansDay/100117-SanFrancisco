@@ -21,7 +21,7 @@ Proposed content for NetBeans Day.
       - ID: UGF6160
       - Speakers: Mark Stephens, Florian Vogler, Constantin Drabo
    * "Java in Space: James Webb Space Telescope Flight Dynamics Ground System"
-      - ID: To Be Done
+      - ID: UGF6161
       - Speakers: Sean Phillips and team
    * "Breaking up the Monolith with Jigsaw" 
       - ID: UGF4400
