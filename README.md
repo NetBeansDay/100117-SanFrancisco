@@ -27,7 +27,7 @@ Proposed content for NetBeans Day.
       - ID: UGF4400
       - Speakers: Johannes Weigend, Sven Reimers, Jens Deters, Martin Klaehn
    * "Java Performance Tuning with Free Tools"
-      - ID: To Be Done
+      - ID: UGF6163
       - Speakers: Kirk Pepperdine
    * "Confessions of a Java Educator: What I Wish I Had Known Earlier"
       - ID: CON5169 (to be converted to UGF)
